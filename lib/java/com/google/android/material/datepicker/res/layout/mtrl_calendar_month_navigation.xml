@@ -38,7 +38,7 @@
       android:insetBottom="0dp"
       android:insetTop="0dp"
       app:icon="@drawable/material_ic_menu_arrow_down_black_24dp"
-      app:iconGravity="textEnd"
+      app:iconGravity="textStart"
       app:iconPadding="4dp"/>
 
   </FrameLayout>

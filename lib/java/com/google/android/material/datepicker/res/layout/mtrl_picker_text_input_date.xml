@@ -31,6 +31,7 @@
     <com.google.android.material.textfield.TextInputEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:longClickable="false"                                                     
         android:hint="@string/mtrl_picker_text_input_date_hint"
         android:inputType="date"
         android:imeOptions="flagNoExtractUi"/>
